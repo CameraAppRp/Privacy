@@ -1,0 +1,2 @@
+# Privacy
+Camera Privacy
